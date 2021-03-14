@@ -1,0 +1,103 @@
+Quadrilátero
+Pontos: (5, 3), (4, 4), (8, 3), (10, 10)
+Aresta 1: (5, 3), (4, 4)
+Aresta 2: (4, 4), (10, 10)
+Aresta 3: (10, 10), (8, 3)
+Aresta 4: (8, 3), (5, 3)
+ponto central: (6, 5)
+área: 16.5
+perimetro: 20.179604
+cor: R: 12 G: 33 B: 123
+----------------------------
+Triângulo
+Pontos: (0, 1), (2, 4), (-7, 3)
+Aresta 1: (0, 1), (2, 4)
+Aresta 2: (2, 4), (-7, 3)
+Aresta 3: (-7, 3), (0, 1)
+ponto central: (-1, 2)
+área: 12.5
+perimetro: 19.941046
+cor: R: 123 G: 32 B: 244
+----------------------------
+Círculo
+ponto central: (8, 9)
+raio: 4
+área: 50.265484
+perimetro: 25.132742
+diametro: 8
+cor: R: 23 G: 23 B: 55
+----------------------------
+Triângulo
+Pontos: (5, 5), (9, 3), (8, 9)
+Aresta 1: (5, 5), (9, 3)
+Aresta 2: (9, 3), (8, 9)
+Aresta 3: (8, 9), (5, 5)
+ponto central: (7, 5)
+área: 11.0
+perimetro: 15.554899
+cor: R: 99 G: 89 B: 78
+----------------------------
+Círculo
+ponto central: (3, 3)
+raio: 2
+área: 12.566371
+perimetro: 12.566371
+diametro: 4
+cor: R: 255 G: 27 B: 132
+----------------------------
+Triângulo
+Pontos: (3, 2), (2, 5), (2, 8)
+Aresta 1: (3, 2), (2, 5)
+Aresta 2: (2, 5), (2, 8)
+Aresta 3: (2, 8), (3, 2)
+ponto central: (2, 5)
+área: 1.5
+perimetro: 12.245041
+cor: R: 20 G: 22 B: 212
+----------------------------
+Círculo
+ponto central: (4, 4)
+raio: 7
+área: 153.93805
+perimetro: 43.9823
+diametro: 14
+cor: R: 43 G: 32 B: 123
+----------------------------
+Quadrilátero
+Pontos: (2, 2), (4, 8), (7, 1), (9, 11)
+Aresta 1: (2, 2), (4, 8)
+Aresta 2: (4, 8), (9, 11)
+Aresta 3: (9, 11), (7, 1)
+Aresta 4: (7, 1), (2, 2)
+ponto central: (5, 5)
+área: 38.0
+perimetro: 27.452566
+cor: R: 222 G: 127 B: 90
+----------------------------
+Quadrilátero
+Pontos: (4, 2), (6, 6), (9, 2), (8, 9)
+Aresta 1: (4, 2), (6, 6)
+Aresta 2: (6, 6), (8, 9)
+Aresta 3: (8, 9), (9, 2)
+Aresta 4: (9, 2), (4, 2)
+ponto central: (6, 4)
+área: 18.5
+perimetro: 20.148754
+cor: R: 12 G: 26 B: 98
+----------------------------
+Círculo
+ponto central: (0, 0)
+raio: 1
+área: 3.1415927
+perimetro: 6.2831855
+diametro: 2
+cor: R: 55 G: 55 B: 55
+----------------------------
+Círculo
+ponto central: (10, 13)
+raio: 7
+área: 153.93805
+perimetro: 43.9823
+diametro: 14
+cor: R: 89 G: 132 B: 182
+----------------------------
