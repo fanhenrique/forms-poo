@@ -1,9 +1,9 @@
-Trabalho da de disciplina de programação orientada a objetos
+# Formas geométricas.
 
+Trabalho da de disciplina de programação orientada a objetos.
 
-Formas geométricas
+### Compile: 
+`javac *.java`
 
-
-Compilar: javac *.java
-
-Executar: java Teste <arquivo_de_entrada> <arquivo_de_saida>
+### Run: 
+`java Teste <arquivo_de_entrada> <arquivo_de_saida>`
